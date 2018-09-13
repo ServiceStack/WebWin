@@ -6443,14 +6443,14 @@
     "ServiceStack/5.2.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-vdyMIJmfPuKvD2GtdF6MYnzTN/ZhVcKRYXrU7Z0WGm098QpL0qLfkZ66epYiTl9lmK5LxKW3U47kicVWzDJnTg==",
+      "sha512": "sha512-oY1mDmeMCBBnSlSMbgmS6eSYqzurwUYSp+KnjuCA0pUqndj/jgz75XKf6uz0ZXCHx8euBRD0IbBGZbVC/uaKXg==",
       "path": "servicestack/5.2.1",
       "hashPath": "servicestack.5.2.1.nupkg.sha512"
     },
     "ServiceStack.Api.OpenApi/5.2.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-VNJrBbvOFtNdxCji3kTKwMEY12HIUBYOlQ4lF3NCHRlLej68kURE8MHwRcrMhDefR4BCb26yM12lf/+U0FSK1w==",
+      "sha512": "sha512-kHCGb2ZSVfVEjiq/GQ2A5hbFFjuxqGaoJgnfUrzuGiTcw0AhjNZ9cQuR0hBUVCU1917rDaCF9eqIUsTsvy68Bw==",
       "path": "servicestack.api.openapi/5.2.1",
       "hashPath": "servicestack.api.openapi.5.2.1.nupkg.sha512"
     },
@@ -6471,63 +6471,63 @@
     "ServiceStack.CefGlue/5.2.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-0DbWpe+orS707y8z6xw5iBtTKJKUd3PWleUrN5GPfmHP8oawrvlWWAyAr2xNPNChwvnIy4nyhQC2fDTCmROpTA==",
+      "sha512": "sha512-WDAoklzM/Ciic3cPsbjDQRUtUl/77paJbLpIXgsbYATjxaQVWJAfagn6vxVZruvKXBfcOdihE0a7t0iwx4iA5g==",
       "path": "servicestack.cefglue/5.2.1",
       "hashPath": "servicestack.cefglue.5.2.1.nupkg.sha512"
     },
     "ServiceStack.CefGlue.Win64/5.2.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-0UD3TSx77nQM1CX+NIJ70ACdDz/3HWf8tHNzi/E+OKv9QjhQAgpNdM4jaQd7fR6g66hYKUOtPSm0MCl/GqxajA==",
+      "sha512": "sha512-qPJOyFBhTPQ0OVcxXsjI9hjRVKC7+2JVcRlezqcaZWunnDnIBxamJMsKEUGw8LHWJenz8vJ36/ArAtgos7G+Nw==",
       "path": "servicestack.cefglue.win64/5.2.1",
       "hashPath": "servicestack.cefglue.win64.5.2.1.nupkg.sha512"
     },
     "ServiceStack.Client/5.2.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-GyheG79kOkOrMEcvxOuMkvPESoNK4XJA9CwlQk7NYcRSITupfRJZzbMmagZWS59N1kgmEsSyHlfDtLowaXJuKQ==",
+      "sha512": "sha512-IEJQl62bVNEEiVdL+8y+4eHbq2wkvlu3qzFx0PAsq1YnI/VlbzSiXXNapC423alcAKw/cJLn0/35/FNnsShxVg==",
       "path": "servicestack.client/5.2.1",
       "hashPath": "servicestack.client.5.2.1.nupkg.sha512"
     },
     "ServiceStack.Client.Core/5.2.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-n8XyVBnNC7RqmzRokHyGpyEKy3N1+KJlsqLapLTDtaojR+aGbGKoxkomT7AYsAR5tHavtTGKSf4T4Ro06kRSpg==",
+      "sha512": "sha512-1GTECUpyzcwpgVXQJW65QnHZEUCPneSPZde9UBEb5li4v6ffCGxYPLTNxLdkVTlbC5AgTuCs5CzLosa+5SG2kA==",
       "path": "servicestack.client.core/5.2.1",
       "hashPath": "servicestack.client.core.5.2.1.nupkg.sha512"
     },
     "ServiceStack.Common/5.2.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-lNK2Z+OAMqkVLKmSesK66cYlO/3NN4F0PmvoPbImuoH5qtyDLl7dJ3ZBwYEnfpgXeFnIzrPIPp8VMZbCCPIDOg==",
+      "sha512": "sha512-7ux+VfXp0ALQhr3xCMXv75GkwHVzIeTVeMe4H8zskWuYOZMVOTxvILizvm859IbTi088Ytt5nJLh7Qv6wTJPZQ==",
       "path": "servicestack.common/5.2.1",
       "hashPath": "servicestack.common.5.2.1.nupkg.sha512"
     },
     "ServiceStack.Common.Core/5.2.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-pud/HStSUScKZEl7DNCLEn9hm6CXrEEeDoxVZ4rqBBjmJb3jE3zL2py0FVGHiVjPpgXA34z6H7XXZMnljE7lOg==",
+      "sha512": "sha512-GyCuEeYXE+Coam/bXY+WnWZBwNDq/a/gNZEgHtp3aUz+cSyEaGMBw3j2128cdCKdT/hjSTp7k18QuyRa2QJ9Lg==",
       "path": "servicestack.common.core/5.2.1",
       "hashPath": "servicestack.common.core.5.2.1.nupkg.sha512"
     },
     "ServiceStack.Core/5.2.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-m0buFnQg/WquVDhhEX2ZKnUggheK0evFXbq8n+cw4/B9d0xmXL/ug97sviJFZesvGNm5YUmnwvsV6FMYqKoN7g==",
+      "sha512": "sha512-MRyfSSUUd/EGbXVrkz5/jZI69XNIwKlrZyMG98mVVHJWv8Lr5kKedP+uFOvfchkohnCS4O+md9ZW2Vj2G1/5ng==",
       "path": "servicestack.core/5.2.1",
       "hashPath": "servicestack.core.5.2.1.nupkg.sha512"
     },
     "ServiceStack.Interfaces/5.2.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-WOg3aF647lyJ/jZE34ZtGVCPwJIYGULJkF8Ujjo+LObzVwY7c2AFALvPsfiKWAf9hpD0GK2DRU5vd4J0Q4azjg==",
+      "sha512": "sha512-UyEVA+CNVEORtSJVV3h+E47YAuZN0JALoF5/CaT1oNRkEkehshJk9CmOn5i0tnzRwQaJ0snjBxXT/Us4bJnSIA==",
       "path": "servicestack.interfaces/5.2.1",
       "hashPath": "servicestack.interfaces.5.2.1.nupkg.sha512"
     },
     "ServiceStack.Interfaces.Core/5.2.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-19qi387VuW68T6eQ9uiKIwU39MtzRmOEPt9IVaHDdaLlqdC1nGz86n/6aSjbS6lpjlaJr6JvPnLpwNogto4SJw==",
+      "sha512": "sha512-UCmyR9li0DWJn1NpY0+Ezanu5P7zt6+sjVtAdob0mMxTC3wi792wFfqe41lKGcyFQDZw3qeyjxw/B0KjeJIziA==",
       "path": "servicestack.interfaces.core/5.2.1",
       "hashPath": "servicestack.interfaces.core.5.2.1.nupkg.sha512"
     },
@@ -6576,21 +6576,21 @@
     "ServiceStack.Server/5.2.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ELNnl7sk67Zv4zfOWX/9BoC5jWK327Vt6LZU5qaVHoFRhNJNsTE1q9pmboOgu/LJWNFTpVLzt6te4DTiSrpIuA==",
+      "sha512": "sha512-P/fhoVYCliZX0uRA2EA8moBTP4yZniEqLmpHStWQmd5Dq5jO3XYEqqGjM2nzx4Tsj2xVcvawOvscMvOqHrDlig==",
       "path": "servicestack.server/5.2.1",
       "hashPath": "servicestack.server.5.2.1.nupkg.sha512"
     },
     "ServiceStack.Text/5.2.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-n8/c+vtp/c/bNLLMpVPo5WLF0vV7/uQCdZCmyYOPg1qf2JPyAo8oITxHGbeL1YWd0K145AcYOo03I+QOtp/TPA==",
+      "sha512": "sha512-cxR35ToownDSVNcGHjKa14TjzjnkvxIuN4rqnqpfEpPsdkHfyuJ4Vl2pPy8Mpbloi0akQgDW73xobV2aMGy2dg==",
       "path": "servicestack.text/5.2.1",
       "hashPath": "servicestack.text.5.2.1.nupkg.sha512"
     },
     "ServiceStack.Text.Core/5.2.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-2KBGOijpuENDVHCZYKyCLaY5b48nHxqRFiHQsQqaJOZaTQkbdYCvn7ArdDqPpdYC2tXKfI6Sj/MV+o/dywyYBQ==",
+      "sha512": "sha512-0cnHQ6YiHrRGrB8vAmcubL6xwIRUvvYj2DILrlVL9ZN7MhaA0Bhm2B2cC4Xy43ZYSPPtCdJ/bhet9lFCVNDN6w==",
       "path": "servicestack.text.core/5.2.1",
       "hashPath": "servicestack.text.core.5.2.1.nupkg.sha512"
     },
